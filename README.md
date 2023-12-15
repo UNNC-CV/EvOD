@@ -26,9 +26,9 @@ Furthermore, a spatial-semantic attention mechanism is designed to exploit the s
 
 ## Results
 
-![visual1](D:\papers\AAAI-ODRL\EvOD\image\visual1.png)
+![visual1](./image/visual1.png)
 
-![visual2](D:\papers\AAAI-ODRL\EvOD\image\visual2.png)
+![visual2](./image/visual2.png)
 
 
 
